@@ -1,0 +1,25 @@
+{
+  "name": "threejs-procedural-terrain",
+  "version": "1.0.0",
+  "description": "Generate procedural terrain in three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgib91/procedural-terrain.git"
+  },
+  "keywords": [
+    "procedural",
+    "terrain",
+    "threejs",
+    "webgl"
+  ],
+  "author": "Kyle Gibbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgib91/procedural-terrain/issues"
+  },
+  "homepage": "https://github.com/kgib91/procedural-terrain#readme"
+}
